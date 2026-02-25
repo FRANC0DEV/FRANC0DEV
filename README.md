@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Edgar Franco
 
-<!--
-**FRANC0DEV/FRANC0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇺🇸 English
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer in progress with strong skills in modern web development.  
+I focus on building clean, scalable, and user-friendly applications using up-to-date frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Skills
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+- **Backend:** Node.js, API development, Serverless functions  
+- **Styling & UI:** Tailwind CSS, Shadcn UI, Figma  
+- **Cloud & Databases:** AWS Lambda, AWS DynamoDB  
+- **Practices:** Component-based architecture, reusable hooks, form validation, clean code  
+
+I enjoy solving real-world problems, improving performance, and building interfaces that feel fast and intuitive.  
+Always learning, always shipping.
+
+---
+
+## 🇪🇸 Español
+
+Soy un desarrollador Full-Stack en formación con sólidas habilidades en desarrollo web moderno.  
+Me enfoco en construir aplicaciones limpias, escalables y fáciles de usar, utilizando tecnologías frontend y backend actuales.
+
+### 🚀 Habilidades Técnicas
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+- **Backend:** Node.js, desarrollo de APIs, funciones serverless  
+- **Estilos & UI:** Tailwind CSS, Shadcn UI, Figma  
+- **Cloud & Bases de Datos:** AWS Lambda, AWS DynamoDB  
+- **Buenas prácticas:** arquitectura por componentes, hooks reutilizables, validación de formularios, código limpio  
+
+Me gusta resolver problemas reales, optimizar el rendimiento y crear interfaces rápidas e intuitivas.  
+Siempre aprendiendo, siempre construyendo.
