@@ -25,6 +25,3 @@ Me enfoco en construir aplicaciones limpias, escalables y fáciles de usar, util
 - **Estilos & UI:** Tailwind CSS, Shadcn UI, Figma  
 - **Cloud & Bases de Datos:** AWS Lambda, AWS DynamoDB  
 - **Buenas prácticas:** arquitectura por componentes, hooks reutilizables, validación de formularios, código limpio  
-
-Me gusta resolver problemas reales, optimizar el rendimiento y crear interfaces rápidas e intuitivas.  
-Siempre aprendiendo, siempre construyendo.
