@@ -10,10 +10,7 @@ I focus on building clean, scalable, and user-friendly applications using up-to-
 - **Backend:** Node.js, API development, Serverless functions  
 - **Styling & UI:** Tailwind CSS, Shadcn UI, Figma  
 - **Cloud & Databases:** AWS Lambda, AWS DynamoDB  
-- **Practices:** Component-based architecture, reusable hooks, form validation, clean code  
-
-I enjoy solving real-world problems, improving performance, and building interfaces that feel fast and intuitive.  
-Always learning, always shipping.
+- **Practices:** Component-based architecture, reusable hooks, form validation, clean code
 
 ---
 
